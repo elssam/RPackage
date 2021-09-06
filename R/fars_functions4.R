@@ -12,7 +12,7 @@
 #'  performance of this function
 #' 
 #' @importFrom magrittr  %>% 
-#' @importFrom dplyr bind_rows group_by summarize
+#' @importFrom dplyr bind_rows group_by summarize n
 #' @importFrom tidyr spread
 #' 
 #' @examples 
