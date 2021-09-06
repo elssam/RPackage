@@ -11,7 +11,7 @@
 #'  so any errors or warnings in \code{\link{fars_read_years}} will affect the 
 #'  performance of this function
 #' 
-#' @importFrom dplyr  %>% 
+#' @importFrom magrittr  %>% 
 #' @importFrom dplyr bind_rows group_by summarize
 #' @importFrom tidyr spread
 #' 

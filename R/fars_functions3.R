@@ -7,7 +7,7 @@
 #' @param years This is a numeric vector of the years for which the user is interested
 #'  in deriving information from
 #' 
-#' @importFrom dplyr %>% 
+#' @importFrom magrittr %>% 
 #' @importFrom dplyr mutate select
 #' 
 #' @examples 
