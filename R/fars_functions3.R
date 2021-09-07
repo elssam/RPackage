@@ -9,6 +9,8 @@
 #' 
 #' @importFrom magrittr %>% 
 #' @importFrom dplyr mutate select
+#' @importFrom rlang .data
+
 #' 
 #' @examples 
 #' \dontrun{fars_read_years(c(2013,2014))}

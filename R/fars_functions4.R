@@ -14,6 +14,8 @@
 #' @importFrom magrittr  %>% 
 #' @importFrom dplyr bind_rows group_by summarize n
 #' @importFrom tidyr spread
+#' @importFrom rlang .data
+
 #' 
 #' @examples 
 #' \dontrun{fars_summarize_years(c(2013,2014))}
