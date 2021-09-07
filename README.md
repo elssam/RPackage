@@ -5,7 +5,19 @@
 <!-- badges: end -->
 
 This package consists of a set of functions that explore a files containing counts of accidents information monthly, and yearly.
- 
+
+# installation
+To install this package copy and paste the following line into your R console.
+```{r}
+library(devtools)
+devtools::install_github("elssam/RPackage")
+```
+Alternatively, you can clone the github repo (manually or from the command line) and then run the following into your R console
+```{r}
+devtools::load_all()
+```
+
+
 # Setup
 
 ```{r setup}
