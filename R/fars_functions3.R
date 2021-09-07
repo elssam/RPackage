@@ -11,7 +11,7 @@
 #' @importFrom dplyr mutate select
 #' 
 #' @examples 
-#' fars_read_years(c(2013,2014))
+#' \dontrun{fars_read_years(c(2013,2014))}
 #' 
 #' @note This function intends to return a list of tipple (with two columns, 
 #'  the \code{year} and \code{MONTH}) for the provided years. The function returns 

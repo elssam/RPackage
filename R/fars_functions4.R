@@ -16,7 +16,7 @@
 #' @importFrom tidyr spread
 #' 
 #' @examples 
-#' fars_summarize_years(c(2013,2014))
+#' \dontrun{fars_summarize_years(c(2013,2014))}
 #' 
 #' @return Returns a tibble, which is a summary table of the count of accidents (e.g. fatal injuries 
 #'  suffered in motor vehicle traffic crashes) per month for the years provided.

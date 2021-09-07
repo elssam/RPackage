@@ -11,7 +11,7 @@
 #' @importFrom maps map
 #' 
 #' @examples 
-#' fars_map_state('34',2013)
+#' \dontrun{fars_map_state('34',2013)}
 #' 
 #' @return Returns a plot, which is a map of the specified state (i.e. \code{state.num}) showing the 
 #'  geographic locations of accidents during the specified \code{year}

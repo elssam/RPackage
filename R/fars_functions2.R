@@ -6,8 +6,8 @@
 #' @param year This is the year for which the user wishes to obtain data from
 #' 
 #' @examples 
-#' make_filename(2013)
-#' make_filename(2014)
+#' \dontrun{make_filename(2013)}
+#' \dontrun{make_filename(2014)}
 #' 
 #' @return It returns the file name (a character) for the year specified, that is, 
 #'  \code{sprintf("accident_%d.csv.bz2", year)}, e.g. for \code{2013}, 

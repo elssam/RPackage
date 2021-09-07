@@ -1,1 +1,4 @@
-testthat::test_that()
+library(testthat)
+
+testthat::test_that("Expected file output",
+                    expect_identical( make_filename(2013),"accident_2013.csv.bz2"))

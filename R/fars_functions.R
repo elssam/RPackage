@@ -13,9 +13,9 @@
 #' @importFrom dplyr tbl_df
 #' 
 #' @examples 
-#' fars_read(my_data) #define my_data as the name of the file you wish to read as
-#'  an R dataframe
-#' fars_read("accident_2013.csv")
+#' \dontrun{fars_read(my_data) #define my_data as the name of the file you wish to read as
+#'  an R dataframe}
+#' \dontrun{fars_read("accident_2013.csv.bz2")}
 #' 
 #' @return This function returns an R tibble for the provided file
 #' 
