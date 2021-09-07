@@ -10,8 +10,8 @@
 #' \dontrun{make_filename(2014)}
 #' 
 #' @return It returns the file name (a character) for the year specified, that is, 
-#'  \code{sprintf("accident_%d.csv.bz2", year)}, e.g. for \code{2013}, 
-#'  it returns \code{accident_2013.csv.bz2}
+#'  \donotrun{sprintf("accident_%d.csv.bz2", year)}, e.g. for \dontrun{2013}, 
+#'  it returns \dontrun{accident_2013.csv.bz2}
 #' 
 #' @export
 
