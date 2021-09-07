@@ -17,7 +17,7 @@ This function takes as an argument the year for which the user wishes to
 acquire data and accordingly creates the associated file name
 }
 \examples{
-make_filename(2013)
-make_filename(2014)
+\dontrun{make_filename(2013)}
+\dontrun{make_filename(2014)}
 
 }

@@ -20,6 +20,6 @@ This function plots a map of accidents' locations which occurred within a
 specified year in a given state.
 }
 \examples{
-fars_map_state('34',2013)
+\dontrun{fars_map_state('34',2013)}
 
 }

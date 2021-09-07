@@ -25,6 +25,6 @@ This function intends to return a list of tipple (with two columns,
  a list of \code{NULL} values with a warning message.
 }
 \examples{
-fars_read_years(c(2013,2014))
+\dontrun{fars_read_years(c(2013,2014))}
 
 }

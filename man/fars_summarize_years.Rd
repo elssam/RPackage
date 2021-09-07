@@ -25,6 +25,6 @@ This function's code runs the \code{\link{fars_read_years}} function,
  performance of this function
 }
 \examples{
-fars_summarize_years(c(2013,2014))
+\dontrun{fars_summarize_years(c(2013,2014))}
 
 }

@@ -22,8 +22,8 @@ This function may result in a warning message because the \code{tbl_df()}
  function in dplyr 1.0.0 was deprecated.
 }
 \examples{
-fars_read(my_data) #define my_data as the name of the file you wish to read as
- an R dataframe
-fars_read("accident_2013.csv")
+\dontrun{fars_read(my_data) #define my_data as the name of the file you wish to read as
+ an R dataframe}
+\dontrun{fars_read("accident_2013.csv.bz2")}
 
 }
