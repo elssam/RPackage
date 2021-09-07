@@ -20,6 +20,7 @@
 #' 
 #' @return Returns a tibble, which is a summary table of the count of accidents (e.g. fatal injuries 
 #'  suffered in motor vehicle traffic crashes) per month for the years provided.
+#' @export
 
 
 fars_summarize_years <- function(years) {

@@ -15,6 +15,7 @@
 #' 
 #' @return Returns a plot, which is a map of the specified state (i.e. \code{state.num}) showing the 
 #'  geographic locations of accidents during the specified \code{year}
+#' @export
 
 
 
