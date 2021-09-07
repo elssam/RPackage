@@ -3,10 +3,10 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Maintainer: The package maintainer <samar.salah119@gmail.com>
+Description: This package consists of a set of functions that explore a files 
+ containing counts of accidents information monthly, and yearly.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
@@ -20,7 +20,6 @@ Imports:
     tidyr,
     rlang,
     testthat,
-    graphics,
-    maps
+    tibble
 VignetteBuilder: knitr
 RoxygenNote: 7.1.1

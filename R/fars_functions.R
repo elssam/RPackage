@@ -11,6 +11,7 @@
 #' 
 #' @importFrom readr read_csv
 #' @importFrom dplyr tbl_df
+#' @import tibble
 #' 
 #' @examples 
 #' \dontrun{fars_read(my_data) #define my_data as the name of the file you wish to read as
